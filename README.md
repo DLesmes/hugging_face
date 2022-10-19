@@ -1,4 +1,4 @@
-# hugging face 🤗
+# Hugging Face 🤗
 Util code and documentation to use hugging face for future developments
 
 ## Transfer Learning
