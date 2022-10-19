@@ -10,6 +10,7 @@ Util code and documentation to use hugging face for future developments
  * [Pipelines](https://huggingface.co/docs/transformers/main_classes/pipelines)
  * [Datasets](https://huggingface.co/datasets)
  * [Transformers](https://huggingface.co/docs/transformers/v4.23.1/es/index)
+ * [Fine-tuning](https://huggingface.co/docs/transformers/v4.23.1/es/training)
  
 ### Some Models
 
